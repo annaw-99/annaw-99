@@ -43,7 +43,7 @@ Feel free to reach out if you're interested in my work!
 
 #### Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/tungyen-wang) [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge)](https://[yourwebsite.com](https://annaw-99.github.io/web/)) [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:annawang9909@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logoColor=white&style=for-the-badge)](https://linkedin.com/in/tungyen-wang) [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logoColor=white&style=for-the-badge)](https://[yourwebsite.com](https://annaw-99.github.io/web/)) [![Email](https://img.shields.io/badge/-Email-D14836?logoColor=white&style=for-the-badge)](mailto:annawang9909@gmail.com)
 
 ---
 
