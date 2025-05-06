@@ -2,7 +2,7 @@
 
 #### About Me
 - 🖥️ New York-based Full Stack Developer with a strong interest in Web Development and Design Engineering.
-- 👩🏻‍🎓 Recent graduate in Information Science from Cornell University (Class of 2024)
+- 👩🏻‍🎓 Recent graduate in Information Science from Cornell University
 - 🔎 I am actively seeking a Full-Stack / Software Developer internship or full-time opportunity in the U.S.
 - 🌱 I am passionate about learning and expanding my expertise, with a current focus on everything related to Retrieval-Augmented Generation (RAG).
 
